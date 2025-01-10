@@ -16,11 +16,12 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 # Libraries
 
-<li>pandas
-<li>matplotlib
-<li>seaborn
-<li>scikit-learn
-
+<li>Pandas
+<li>Numpy
+<li>Matplotlib
+<li>Seaborn
+<li>Scikit-learn
+  
 # Algorithms
 
 <li>Logistic Regression
