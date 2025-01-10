@@ -10,7 +10,19 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 2. Sepal Width(Cm)
 3. Petal Length(Cm)
 4. Petal Width(Cm)
-5. Species: --
-    Iris Setosa -- Iris Versicolour -- Iris Virginica
+5. Species: --Iris Setosa, Iris Versicolour, Iris Virginica
 
 **Download link:** https://www.kaggle.com/datasets/uciml/iris
+
+# Libraries
+
+<li>pandas
+<li>matplotlib
+<li>seaborn
+<li>scikit-learn
+
+# Algorithms
+
+<li>Logistic Regression
+<li>K-Nearest Neighbors
+<li>Decision Tree
