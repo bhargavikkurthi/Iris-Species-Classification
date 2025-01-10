@@ -6,10 +6,11 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 **Attribute Information:-**
 
-1. sepal length in cm
-2. sepal width in cm
-3. petal length in cm
-4. petal width in cm
-5. species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
+1. Sepal Length(Cm)
+2. Sepal Width(Cm)
+3. Petal Length(Cm)
+4. Petal Width(Cm)
+5. Species: --
+    Iris Setosa -- Iris Versicolour -- Iris Virginica
 
 **Download link:** https://www.kaggle.com/datasets/uciml/iris
